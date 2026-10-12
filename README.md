@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Govind Mishra 👋
 
-<!--
-**govindmishra581996-lgtm/govindmishra581996-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CCTV Security Systems | IEMS | HTMS Engineer
 
-Here are some ideas to get you started:
+I have 8+ years of experience in security systems, CCTV surveillance, highway traffic management, traffic enforcement, installation, commissioning, troubleshooting, and operations & maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+- CCTV Security & Surveillance Systems
+- ANPR Cameras and Traffic Monitoring Systems
+- SVD/VIDS and Radar Systems
+- IP Networking and Device Configuration
+- Installation and Commissioning
+- System Integration and Troubleshooting
+- Vendor Coordination and O&M
+
+Featured Project
+
+TrafficSense-AI
+
+An MBA academic project focused on AI-based traffic monitoring, vehicle detection, traffic analysis, and road safety.
+
+Education
+
+- MBA – Production & Operations Management
+- PGDCA
+- B.Sc. – Mathematics
+- ITI – Electrician
+
+Career Interests
+
+Team leader | Security Systems Engineer | CCTV Engineer | Project Engineer | Operations & Maintenance
+
